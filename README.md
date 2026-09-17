@@ -67,6 +67,23 @@ Ao longo da minha jornada venho investindo constantemente em capacitação nas s
 * Growth Marketing, Gestão de Tráfego Pago e Inovação Digital
 
 ---
+
+## 🌐 Projetos em destaque
+
+Uma coleção de landing pages responsivas criada para demonstrar desenvolvimento front-end aplicado a negócios reais:
+
+| Projeto | Destaque |
+| :--- | :--- |
+| [💈 Brutus Barbearia](./mostruarios/barbearia/) | Serviços e agendamento por WhatsApp |
+| [⚡ Pulse Training](./mostruarios/academia/) | Modalidades, planos e captação de alunos |
+| [🍝 Oliva Cucina](./mostruarios/restaurante/) | Menu gastronômico e reserva de mesa |
+| [✨ Aura Estética](./mostruarios/estetica/) | Tratamentos e conversão pelo WhatsApp |
+
+Todos foram desenvolvidos com HTML5, CSS3 e JavaScript, possuem layout responsivo, comentários no código e README próprio.
+
+[Ver a coleção completa →](./mostruarios/)
+
+---
 ## 📈 Estatísticas de Código
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueMioranza&show_icons=true&theme=tokyonight)
